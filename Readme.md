@@ -1,7 +1,7 @@
 INTEGRANTES:
 Francisco Vicente Suarez Bellon
 Carla Sunami Perez Valera
-Jan Carlos Perez Fernandez
+Jan Carlos Perez Gonzalez
  GRUPO C-312
 
 NOTA IMPORTANTE:
